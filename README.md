@@ -8,7 +8,6 @@ This is a scraper designed to hit the COVID Tracking Project every four hours an
 
 | Variable name | Description |
 | ------------- | ----------- |
-| SLACK_TOKEN | The slack token for the DMN slack, allowing the scraper to post to the appropriate channel |
 | AWS_ACCESS_KEY_ID | AWS key used to publish the scraper to Lambda |
 | AWS_SECRET_ACCESS_KEY | AWS secret access key used to publish the scraper to Lambda |
 
